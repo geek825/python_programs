@@ -48,4 +48,5 @@ while True:
         
     else:
         print("Oops your are lose Computer are win ")
-      
+
+    print("Game Over")

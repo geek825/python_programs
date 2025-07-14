@@ -410,7 +410,7 @@
 #         temp = temp //  10
 
 #     return sum1 == num
-# result = is_armstrong(num)
+# result = is_armstrong(num)    
 
 # if  result:
 #     print("The number is armstrong")
@@ -604,4 +604,326 @@
 # num = int(input("Enter the number :"))
 
 # factor_number(num)
+
+
+# def pangram(s):
+#     alpha = "abcdefghijklmnopqrstuvwxyz"
+    
+#     for i in alpha :
+#         if i not in s.lower():
+#             return False
+#         return True
+    
+# s = "The quick brown fox jumps over the lazy dog"
+# result = pangram(s)
+
+# print(result)
+
+
+
+# def lcm(x , y):
+#     if x > y:
+#         gretar = x
+
+#     else:
+#         gretar = y
+
+#     while True :
+#         if (gretar % x == 0) and (gretar % y == 0) :
+#             lcm =gretar
+#             break
+
+#         gretar += 1
+        
+#     return lcm
+
+# x = int(input("Enter the number :"))
+# y = int(input("Enter the 2nd number :"))
+
+# result = lcm(x , y)
+# print(result)       
+
+# def prime_in_range(num):
+#     for i in range(2 , num + 1):
+#         is_prime = True
+#         for j in range(2 , int(i ** 0.5) + 1):
+#             if i % j == 0 :
+#                 is_prime = False
+#                 break
+
+#         if is_prime:
+#             print(i)
+# num = int(input("Enter the number :"))
+
+# result = prime_in_range(num)
+
+# print(result)
+                
+                
+# num = int(input("Enter the number :"))
+
+# sum1 = 0
+
+# for i in range(1 , num + 1):
+#     sum1 += i   
+    
+# print("The sum of natural numbers", sum1)              
+
+
+# def first_repating_char(s):
+#     char_count = {}
+#     count = 0
+    
+    
+#     for char in s :
+#         if char in char_count:
+#             char_count[char] += 1
+#         else:
+#             char_count [char] = 1
+            
+#     for char , count in char_count.items():
+#         if count > 1:
+#             return char
+  
+
+# def longest(s):
+#     word = s.split()
+#     longest_word = ""
+    
+#     for i in word:
+#         if len(i)  > len(longest_word):
+#             longest_word = i
+
+#     return longest_word
+
+# s = "yash shelar"
+
+# result = longest(s)
+
+# print(result)
+
+# def find_dublicates(arr):
+#     seen = len(arr)
+    
+#     for i in range(len(arr)):
+#         for j in range(i + 1 ,len(arr)):
+#             if arr[i] == arr[j] :
+#                 seen -= 1
+#     return seen
+
+
+# arr = [22 , 22 , 43 , 24 ,25]
+
+# result = find_dublicates(arr)
+
+# print(result)
+
+
+# arr = []
+# size_of_array =  int(input("Enter the size of array : "))
+# sum1 = 0
+# print("Enter the elements : ")
+# for i in range(size_of_array):
+#     num = int(input())
+#     arr.append(num)
+# for i in range(0 , size_of_array) :
+#   sum1 += arr[i]
+# print(arr)
+# print("\nThe sum of arrey elements is " , sum1)
+
+# arr = [12 ,89, 23, 76,45 ,89]
+# for i in range(len(arr)) :
+#     for j in range(i + 1 , len(arr)):
+#         if arr[i] > arr[j] :
+#             arr[i] , arr[j] = arr[j] , arr[i]
+# print(arr)
+
+
+
+# # largest = arr[-1]
+# # second_largest = None
+# # for i in range(len(arr) -2 , -1 , -1):
+# #     if arr[i] != largest :
+# #         second_largest = arr[i]
+# #         break
+    
+# # if second_largest is not None:
+# #     print("This is a second largest number" , second_largest )
+        
+# arr = [12 ,89, 23, 76,45 ,89]
+# count = 0 
+# for i in range(len(arr)) :
+#     for j in range(i + 1 , len(arr)):
+#         if arr[i] > arr[j] :
+#             arr[i] , arr[j] = arr[j] , arr
+
+
+
+# s1 = "programming" 
+# freq = {}
+
+# for char in s1 :
+#     if char in freq :
+#         freq[char] += 1
+        
+#     else:
+#         freq[char] = 1
+# print(freq)     
+
+
+# string = "Education"
+# vowels = "aeiouAEIOU"
+# vowels_count = 0
+# cons_count = 0
+# for char in string :
+#     if char.isalpha():
+#         if char in vowels :
+#             vowels_count += 1
+#         else:
+#             cons_count += 1
+
+
+# print("vowels in string are : ", vowels_count)
+# print("constant in string are : " , cons_count)
+
+
+
+# string = "programming"
+# s2 = ""
+
+# for char in string :
+#     if char not in s2 :
+#         s2 += char
+        
+# print(s2)
+        
+# s1 = "listen" 
+# s2 = "silent" 
+
+# if len(s1) != len(s2) :
+#     print("Not anagram")
+
+# s1_list = list(s1)
+# s2_list = list(s2)
+
+
+# for i in range(len(s1_list)):
+#     for j in range(i + 1 , len(s1_list)):
+#         if s1_list[i] > s1_list[j] :
+#             s1_list[i] , s1_list[j] = s1_list[j] , s1_list[i] 
+# print(s1_list)
+
+
+
+# for i in range(len(s2_list)):
+#     for j in range(i + 1  , len(s2_list)):
+#         if s2_list[i] > s2_list[j] :
+#             s2_list[i] , s2_list[j] = s2_list[j] , s2_list[i] 
+            
+# print(s2_list)
+
+# if s1_list == s2_list :
+#     print("\nThe string is anagram")
+    
+# else:
+#     print("\nThe string is not anagram")
+
+
+        
+# string = "this is a test this is only a test"
+# word = ""
+# unique = []
+# result = ""
+# freq ={}
+# for char in string :
+#     if char != " " :
+#         word += char
+#     else:
+#         if word not in unique :
+#             unique.append(word)
+#             result += word + " "
+#         word =""
+        
+# if word not in unique :
+#     unique.append(word)
+#     result += word
+    
+# print(result)
+
+# string = "aabbcccdd"
+
+# compress = "" 
+# count = 0
+
+# for i in range(1 , len(string)):
+#     if string[i] == string[i - 1]:
+#         count += 1
+        
+#     else:
+#         compress += string[i - 1] + str(count)
+#         count = 1
+        
+# compress += string[- 1] + str(count)
+
+# print(compress)
+
+
+# string = "the quick brown fox jumps over the lazy dog"
+
+# alpha = "abcdefghijklmnopqrstuvwxyz"
+
+# count = 0
+
+# for ch in alpha:
+#     if ch in string :
+#         count += 1
+# if count == 26:
+#     print("The string is pangram")
+    
+# else:
+#     print("The string is not pangram")
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+
+
+
+
+
+
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+
+
+
+
+
+
+
+
+        
+
+    
+    
     

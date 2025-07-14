@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\yash_python\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\movie_booking.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:movie_booking.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\leetcode_03.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode_03.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\queue.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:queue.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\leetcode_01.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode_01.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\leetcode_02.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode_02.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\bubble.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bubble.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\leetcode_04.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode_04.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\leetcode_06.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode_06.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\leetcode_05.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:leetcode_05.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\bank_mangement.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bank_mangement.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\binary_search.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:binary_search.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\student_info.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:student_info.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\compny.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:compny.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\yash_python\\object.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:object.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "leetcode_03.py",
+              "DocumentMoniker": "C:\\yash_python\\leetcode_03.py",
+              "RelativeDocumentMoniker": "leetcode_03.py",
+              "ToolTip": "C:\\yash_python\\leetcode_03.py",
+              "RelativeToolTip": "leetcode_03.py",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T13:41:39.188Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "binary_search.py",
+              "DocumentMoniker": "C:\\yash_python\\binary_search.py",
+              "RelativeDocumentMoniker": "binary_search.py",
+              "ToolTip": "C:\\yash_python\\binary_search.py",
+              "RelativeToolTip": "binary_search.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T09:49:03.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "student_info.py",
+              "DocumentMoniker": "C:\\yash_python\\student_info.py",
+              "RelativeDocumentMoniker": "student_info.py",
+              "ToolTip": "C:\\yash_python\\student_info.py",
+              "RelativeToolTip": "student_info.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-15T12:56:31.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "queue.py",
+              "DocumentMoniker": "C:\\yash_python\\queue.py",
+              "RelativeDocumentMoniker": "queue.py",
+              "ToolTip": "C:\\yash_python\\queue.py",
+              "RelativeToolTip": "queue.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-17T13:23:09.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "leetcode_06.py",
+              "DocumentMoniker": "C:\\yash_python\\leetcode_06.py",
+              "RelativeDocumentMoniker": "leetcode_06.py",
+              "ToolTip": "C:\\yash_python\\leetcode_06.py",
+              "RelativeToolTip": "leetcode_06.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-18T10:12:36.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "leetcode_05.py",
+              "DocumentMoniker": "C:\\yash_python\\leetcode_05.py",
+              "RelativeDocumentMoniker": "leetcode_05.py",
+              "ToolTip": "C:\\yash_python\\leetcode_05.py",
+              "RelativeToolTip": "leetcode_05.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-18T10:12:22.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "leetcode_04.py",
+              "DocumentMoniker": "C:\\yash_python\\leetcode_04.py",
+              "RelativeDocumentMoniker": "leetcode_04.py",
+              "ToolTip": "C:\\yash_python\\leetcode_04.py",
+              "RelativeToolTip": "leetcode_04.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-18T10:12:04.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movie_booking.py",
+              "DocumentMoniker": "C:\\yash_python\\movie_booking.py",
+              "RelativeDocumentMoniker": "movie_booking.py",
+              "ToolTip": "C:\\yash_python\\movie_booking.py",
+              "RelativeToolTip": "movie_booking.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAqAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-18T05:10:41.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "leetcode_02.py",
+              "DocumentMoniker": "C:\\yash_python\\leetcode_02.py",
+              "RelativeDocumentMoniker": "leetcode_02.py",
+              "ToolTip": "C:\\yash_python\\leetcode_02.py",
+              "RelativeToolTip": "leetcode_02.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T13:41:34.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "leetcode_01.py",
+              "DocumentMoniker": "C:\\yash_python\\leetcode_01.py",
+              "RelativeDocumentMoniker": "leetcode_01.py",
+              "ToolTip": "C:\\yash_python\\leetcode_01.py",
+              "RelativeToolTip": "leetcode_01.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T13:41:28.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bubble.py",
+              "DocumentMoniker": "C:\\yash_python\\bubble.py",
+              "RelativeDocumentMoniker": "bubble.py",
+              "ToolTip": "C:\\yash_python\\bubble.py",
+              "RelativeToolTip": "bubble.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T13:41:22.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "compny.py",
+              "DocumentMoniker": "C:\\yash_python\\compny.py",
+              "RelativeDocumentMoniker": "compny.py",
+              "ToolTip": "C:\\yash_python\\compny.py",
+              "RelativeToolTip": "compny.py",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-15T12:53:41.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bank_mangement.py",
+              "DocumentMoniker": "C:\\yash_python\\bank_mangement.py",
+              "RelativeDocumentMoniker": "bank_mangement.py",
+              "ToolTip": "C:\\yash_python\\bank_mangement.py",
+              "RelativeToolTip": "bank_mangement.py",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-05-15T12:45:39.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "object.py",
+              "DocumentMoniker": "C:\\yash_python\\object.py",
+              "RelativeDocumentMoniker": "object.py",
+              "ToolTip": "C:\\yash_python\\object.py",
+              "RelativeToolTip": "object.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKISURBVDhPtZRBTxpBFMd/gCyRWnVdJphVIhhWT3rT72BMG5p6qGliY9P6SfwCnvwI9KAJJe3VqzEe1SAHG8OBABUqKKLI7vYyY5aVND20/\u002BQlm5l9vzfz3rwH/1Ku6wZ8S2EgBrwAQr49v2ygDVwBj2rRC9SB10AGSAGaZ2\u002BQusAlkAdyQMO7GQY\u002BAGUZ2flLs4EK8EkynjQpozyDhcNhZ2lpyRFCOMFg0A9U0G\u002BACRCUwJdA0puCYDDIzMwMW1tbLC8vMzw8zMLCAmNjYwQCfakPyBSN4Em8AN7LgmCaJisrK2QyGcbHx2k0GlQqFUzTxLIsdF3HcRxubm4UtAV8Aa5UqHl55XmAtbU1NjY2SKVSuK7L3d0d9XqdSCSCpmnYtk0ul2NnZ0cBfwCvgII6YQx4p04Yi8W4vb0lEomwuLiIZVlYlkUikcAwDGzbZm9vj2KxqIC/gCxwNRA4PT1Ns9mkWCxydHTE6Ogo8Xic6\u002BtrOp0O2WyWw8NDqtXqM6AqSp9CoRC9Xo92u02pVGJ3d5darUa32\u002BX09JSDgwPu7\u002B/9buCpcp\u002BGhoaIRqMYhkE6nSaRSOA4Dg8PD5ycnNBqtXh8fGqOPg0EqicyNzeHEALDMHBdl06nw\u002BzsLOvr6ySTSb8b\u002BICu\u002Bjg\u002BPqZUKjE1NYVpmgghsG2bXq\u002BHruuUy2XOz889rrjKXxVlAngLxAHa7TaFQoGLiwvS6TRCCIQQnJ2dsb29TT6fp9lseoFV\u002BQ7ramES\u002BDqo9TRNc1ZXV53NzU0nGo36207Zd9V6SmHgo2z0Z9A/mA3UgM9qOnmbcgJ4Iy0lg/jnpZIrZ\u002BClvNm\u002Buq7fQZOPe8RTMP8/qniOHLA/5Wz8P/oN/swBV6jrMtwAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-06-13T10:29:51.777Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
