@@ -14,3 +14,6 @@ def Element(arr):
 arr =[22,33,44,66,55]
 print("Input" , arr)
 print(Element(arr))    
+
+
+    
