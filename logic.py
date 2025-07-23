@@ -985,4 +985,28 @@
 #     otp += str(random.randint(0 , 9 ))
 
 # print(otp)
- 
+
+# s = "geekforgeeks"        23 july 2025 question
+# s1 = ""
+
+# for i in range(len(s)):
+#     s2 = ""
+#     for j in range(i + 1 , len(s)):
+#         if s[j] in s2 :
+#             break
+#         s2 += s[j] 
+#         if len(s1) < len(s2):
+#             s1 = s2 
+# print(s1)
+        
+             
+             
+# s = "geekforgeeks"  2nd type
+# s1 =""
+# count = 0
+# for ch in s :
+#     if ch not in s1:
+#         s1 += ch
+#         count += 1
+# print(count)
+# print(s1)
