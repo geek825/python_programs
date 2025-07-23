@@ -1010,3 +1010,162 @@
 #         count += 1
 # print(count)
 # print(s1)
+
+
+# file = open("linked.py" , "r")
+# print(file.read())
+# file.close
+
+# from functools import reduce 
+
+# square = lambda x : x * x
+
+# print(reduce(lambda x , y : x * y , map(square , range(1 , 4))))
+
+
+            # 23 july 2025 algorithms 
+
+# def bubble_sort(arr) :    
+#     for i in range(len(arr)):
+#         for j in range(i + 1 , len(arr)):
+#             if arr[i] > arr[j] :
+#                 arr[i] , arr[j] = arr[j] , arr[i] 
+                
+# arr = [23 , 53 , 64 ,21 , 3]
+# bubble_sort(arr)
+
+# print(arr)
+
+
+# def insertion_sort(arr):
+#     for i in range(len(arr)):
+#         key = arr[i] 
+#         j = i - 1
+        
+#         while j >= 0  and arr[j] > key :
+#             arr[j + 1] = arr[j] 
+#             j -= 1
+            
+            
+#         arr[j + 1] = key
+        
+# arr = [23 , 53 , 64 ,21 , 3]
+# insertion_sort(arr)
+
+# print(arr)
+
+# string = "Python is a powerful programming language"
+# word = ""
+# longest = ""
+# max_lenght = 0
+
+
+# for ch in string:
+#     if ch != " ":
+#         word += ch
+#     else:
+#         if len(word) > max_lenght :
+#             longest = word
+#             max_lenght = len(word)
+            
+#         word = ""
+        
+# if len(word) > max_lenght :
+#     longest = word 
+#     max_lenght = len(word)
+    
+# print("lenght word : " , max_lenght)
+
+# print("longest word : " , longest)
+
+# string = "Python is a powerful programming language"
+# word = "" 
+# freq = {} 
+# for ch in string :
+#     if ch != " ":
+#         word += ch
+#     else:
+#         if word in freq :
+#             freq[word] += 1
+#         else:
+#             freq[word] = 1
+#         word = ""
+# if word:
+#     if word in freq:
+#         freq[word] += 1
+#     else:
+#         freq[word] = 1
+# print(freq)
+
+# nums = [100, 4, 200, 5, 3, 2, 25,26, 30, 29,33,27]
+
+# for i in range(len(nums)):
+# 	for j in range(i + 1 , len(nums)):
+# 		if nums[i] > nums[j] :
+# 			nums[i] , nums[j] = nums[j] , nums[i]
+			
+# print(nums)
+
+# current = 1 
+# max_no = 1
+# for i in range( 1 , len(nums)):
+# 	if nums[i] == nums[i - 1]:
+# 		pass
+		
+# 	elif nums[i] == nums[i - 1] + 1:
+# 		current += 1
+		
+# 	else:
+# 		if current > max_no :
+# 			max_no = current 
+			
+# 		current = 1
+		
+# 	if current > max_no:
+# 		max_no  = current
+		
+		
+# print(max_no)
+        
+
+# def merge_sort(arr) :
+#     if len(arr) > 1:
+#         mid = len(arr) // 2
+#         left = arr[:mid]
+#         right = arr[mid:]
+        
+        
+#         merge_sort(left)
+#         merge_sort(right)
+        
+#         i = j = k = 0 
+        
+#         while i < len(left) and j < len(right):
+#             if arr[i] < arr[j] :
+#                 arr[k] = arr[left] 
+#                 i += 1
+                
+#             else:
+#                 arr[k] = arr[right]
+#                 j += 1
+                
+#             k += 1
+            
+            
+#         while i < len(left) :
+#             arr[k] = left[i] 
+#             i += 1
+#             k += 1
+            
+        
+#         while j < len(right):
+#             arr[k] = right[j] 
+#             j += 1
+#             k += 1
+#     return arr
+    
+# arr = [34 , 53 , 23 ,73 , 2]
+# merge_sort(arr)
+
+# print(arr)
+
