@@ -1682,5 +1682,5 @@
 #     return quick_sort(left) + [pivot] + quick_sort(right)
 # arr = [ 5 , 2 , 1 ,4 ,3]  
 # result = quick_sort(arr)
-# print(result)
+# print(result) 
 
