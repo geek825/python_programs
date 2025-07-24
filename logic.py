@@ -1169,3 +1169,519 @@
 
 # print(arr)
 
+
+
+                # 24 July 2025
+# num = 18
+# original = num
+# sum1 = 0 
+
+# while num > 0 :
+#     digit = num % 10 
+#     sum1 += digit
+#     num = num // 10
+    
+# if original % sum1 == 0 :
+#     print("This is harshad number")
+
+# else:
+#     print("This is not a harshad number")
+    
+    
+
+# num =  153
+# original = num
+# sum1 = 0
+# cube = 0
+
+# while num > 0 :
+#     digit = num % 10 
+#     cube = digit ** 3
+#     sum1 += cube
+#     num = num //10
+    
+# if original == sum1:
+#     print("This is the armstrong number")
+# else:
+#     print("This is not armstrong number")
+  
+  
+    
+# num = 121
+# original = num 
+# reverse = 0 
+
+# while num > 0 :
+#     digit = num % 10 
+#     reverse = reverse * 10 + digit 
+#     num = num // 10
+    
+# if original == reverse:
+#     print("The number is palindrome")
+    
+# else:
+#     print("The number is not palindrome")
+
+
+# num = 9
+# sum1 = 0
+# original = num 
+# square = num * num
+# while square > 0 :
+#     digit = square % 10
+#     sum1 += digit
+#     square = square // 10
+   
+# if sum1 == original:
+#     print("This is the neon number")
+# else:
+#     print("This is not neon number")
+
+
+
+# num = 76
+# original = num
+# square = num * num 
+# last = 0
+# while square > 0 :
+#     digit = square % 10
+#     last = square % 100
+#     square = square // 10 
+    
+# if original == last:
+#     print("yes")
+
+
+
+    
+# arr= [12 , 5 ,23 ,433 ,13 ,43]
+
+# first = second = float('-inf' )
+
+# for num in arr :
+#     if num > first :
+#         second = first
+#         first = num
+        
+        
+#     elif num > second and num != first :
+#         second = num
+        
+# print("This is the second largest number" , second)
+
+
+
+
+# a = 10
+# b = 20 
+
+# while b != 0 :
+#     a , b = b , a % b
+    
+# print("Gcd is" , a)
+
+
+# a = 10 
+# b = 20 
+
+# x , y =  a , b
+
+# while  y != 0 :
+#     x , y = y , x % y 
+    
+# gcd = x
+
+
+# lcm = (a * b) // gcd
+
+# print(lcm)
+
+
+
+
+# def merge_arr(list1 , list2):
+#     i = 0 
+#     j = 0 
+#     merge = []
+    
+#     while i <  len(list1) and j  <  len(list2):
+#         if list1[i] < list2[j]:
+#             merge.append(list1[i])
+#             i += 1
+            
+#         else:
+#             merge.append(list2[j])
+#             j += 1
+            
+#     while i < len(list1):
+#         merge.append(list1[i])
+#         i += 1
+        
+#     while j < len(list2):
+#         merge.append(list2[j])
+#         j += 1
+        
+#     return merge
+    
+    
+# a = [ 4 , 1 , 3 , 2]
+# b = [6 , 8 , 5 , 7]
+
+# print(merge_arr([ 4 , 1 , 3 , 2] ,[6 , 8 , 5 , 7]))
+
+
+
+
+# def rotate_arr(arr , k) :
+#     n = len(arr)
+#     k = k % n
+#     result = []
+
+#     for i in range(k , n ):
+#         result.append(arr[i])
+        
+#     for i in range(0 , k):
+#         result.append(arr[i])
+        
+        
+#     return result
+    
+# arr = [1 , 2 , 3 ,4 ,5]
+# k = 3
+# rotate = rotate_arr(arr , k)
+
+# print(rotate)
+
+
+
+
+# num = [12, 345, 2, 6, 7896, 676761]
+# digit_count = 0
+# for i in num:
+#     temp = i 
+#     digit = 0
+#     while temp > 0 :
+#         temp = temp // 10
+#         digit += 1
+        
+#     if digit % 2 == 0 :
+#         digit_count += 1
+        
+# print(digit_count)
+
+
+
+
+
+# nums = [23, 45, 66, 13, 24]
+
+# even_count = 0
+# for i in nums :
+#     temp = i 
+#     sum1 = 0 
+    
+#     while temp > 0 :
+#         digit = temp % 10 
+#         sum1 += digit
+#         temp = temp // 10
+        
+#     if sum1 % 2 == 0 :
+#         even_count += 1
+ 
+# print(even_count)
+
+
+
+# nums = [121, 345, 33, 45654, 789]
+
+# palindrome_count = 0
+# for i in nums :
+#     temp = i
+#     original = temp
+#     reverse = 0 
+    
+#     while temp > 0 :
+#         digit = temp % 10 
+#         reverse = reverse * 10 + digit 
+#         temp = temp // 10 
+#     if original == reverse :
+#         palindrome_count += 1
+        
+# print(palindrome_count)
+        
+        
+              
+# nums = [153, 370, 9474, 123, 10, 407]
+
+# armstrong_count = 0
+
+# for i in nums :
+#     temp = i 
+#     original = i
+    
+#     digit_count = 0 
+#     while temp > 0 :
+#         digit_count += 1
+#         temp = temp // 10
+    
+#     temp = original 
+#     sum1 = 0
+#     while temp > 0 :
+#         digit = temp % 10
+#         power = 1
+#         for i in range(digit_count):  # Raise to digit_count power
+#             power *= digit
+#         sum1 += power
+#         temp = temp // 10
+        
+#     if original == sum1 :
+#         armstrong_count += 1
+        
+        
+# print(armstrong_count)
+        
+        
+# nums = [153, 370, 371, 123, 10, 407]
+
+# armstrong_count = 0
+
+# for i in nums :
+#     temp = i 
+#     original = temp 
+#     cube = 0 
+#     sum1 = 0
+    
+#     while temp > 0 :
+#         digit = temp % 10 
+#         cube = digit ** 3
+#         sum1 += cube 
+#         temp = temp // 10
+        
+#     if original == sum1 :
+#         armstrong_count += 1
+        
+# print(armstrong_count)
+
+
+
+# s1 = "madam" 
+# original = s1
+# reverse = ""
+
+# for ch in s1:
+#     reverse = ch + reverse
+    
+
+# if original == reverse:
+#     print("This is palindrome string")
+    
+# else:
+#     print("This is not palindrome string")
+    
+    
+    
+# string = "yash"
+# vowel = "aeiouAEIOU"
+
+# vowel_count = 0
+# const = 0 
+
+
+# for ch in string:
+#     if ch in vowel:
+#         vowel_count += 1
+        
+#     elif ch.isalpha():
+#         const += 1
+        
+#     else:
+#         print("Error")
+
+# print(vowel_count) 
+# print(const)
+
+
+
+# s1 = "yash" 
+# s2 = "shelar"
+
+
+# s1_list = list(s1)
+# s2_list = list(s2)
+
+
+# if len(s2_list) != len(s1_list):
+#     print("no")
+    
+    
+# for i in range(len(s1_list)):
+#     for j in range(i + 1 , len(s1_list)):
+#         if s1_list[i] > s1_list[j] :
+#             s1_list[i] , s1_list[j] = s1_list[j] , s1_list[i]
+            
+# print(s1_list)
+
+# for i in range(len(s2_list)):
+#     for j in range(i + 1 , len(s2_list)):
+#         if s2_list[i] > s2_list[j] :
+#             s2_list[i] , s2_list[j] = s2_list[j] , s2_list[i]
+            
+# print(s2_list)
+
+
+# if s1_list == s2_list:
+#     print("anagram")
+    
+# else:
+#     print("No anagram")
+
+  
+# s = "programming"
+# freq = {}
+ 
+# for ch in s :
+#     if ch in freq :
+#         freq[ch] += 1
+#     else:
+#         freq[ch] = 1
+    
+# for ch in freq :
+#     if freq[ch] > 1:
+#         print(freq[ch])
+         
+         
+         
+# s ="programming" 
+# unique = ""
+# count = 0
+# for ch in s: 
+#     if ch not in unique :
+#         unique += ch
+#         count += 1
+        
+# print(unique)
+# print(count)
+
+
+
+# s = "programming"
+
+
+# freq = {}
+
+# for ch in s :
+#     if ch in freq:
+#         freq[ch] += 1
+        
+#     else:
+#         freq[ch] = 1
+        
+        
+# for ch in freq :
+#     if freq[ch] == 1:
+#         print("non repeting  charcter" , ch)
+
+
+
+# def binery_search(arr , target) :
+#     low = 0 
+#     high = len(arr) - 1
+     
+#     while low <= high :
+#         mid = (low + high) // 2
+        
+        
+#         if arr[mid] == target :
+#             return mid
+            
+#         elif arr[mid] < target :
+#             low = mid + 1
+            
+#         else:
+#             high = mid - 1
+#     return -1
+
+# arr = [4,5,6,7,0,1,2]
+# target = 0
+# result = binery_search(arr , target)
+
+# print(result)
+
+
+
+# num = 19 
+# square = 0 
+# sum1 = 0
+
+# while num > 0 :
+#     digit = num % 10 
+#     square = digit ** 2
+#     sum1 += square
+#     num = num // 10
+        
+# print(sum1)
+
+
+
+
+# arr = [4, 5, 2, 10, 8]
+# n = len(arr)
+
+# result = []
+
+# for i in range(n) :
+#     next_greater = -1
+#     for j in range(i + 1 , n):
+#         if arr[i] < arr[j] :
+#             next_greater = arr[j] 
+#             break
+#     result.append(next_greater)
+        
+# print(result)
+
+
+
+# s = "abbaca"
+# stack = []
+# for ch in s :
+#     if stack and stack[-1] == ch:
+#         stack.pop()
+        
+#     else:
+#         stack.append(ch)
+
+# result = ''.join(stack)
+
+# print(result)
+
+
+
+
+# arr = [ 5 , 2 , 1 ,4 ,3]    
+
+# for i in range(len(arr)):
+#     min_index = i 
+#     for j in range(i + 1 , len(arr)):
+#         if arr[j] < arr[min_index] :
+#             min_index = j 
+            
+            
+#     arr[i] , arr[min_index] = arr[min_index] , arr[i]
+    
+# print(arr)
+
+
+
+# def quick_sort(arr):
+#     if len(arr) <= 1:
+#         return arr
+#     pivot = arr[0]    
+#     left = [x for x in arr[1:] if x < pivot]
+#     right = [x for x in arr[1:] if x >= pivot]
+
+#     return quick_sort(left) + [pivot] + quick_sort(right)
+# arr = [ 5 , 2 , 1 ,4 ,3]  
+# result = quick_sort(arr)
+# print(result)
+
+
