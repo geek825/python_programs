@@ -1684,3 +1684,282 @@
 # result = quick_sort(arr)
 # print(result) 
 
+
+
+           # 25 july 2025
+           
+           
+# def quick_sort(arr):
+#     if len(arr) <= 1 :
+#       return arr
+    
+#     pivot = arr[0]
+#     left = [x for x in arr[1:] if x < pivot]
+#     right = [x for x in arr[1:] if x >= pivot ]
+    
+    
+#     return quick_sort(left) + [pivot] + quick_sort(right)
+    
+    
+    
+# arr = [4 , 2 ,5 ,1 ,6]
+
+# quick_sort(arr)
+# print(arr)
+
+
+# arr = [4 , 2 ,5 ,1 ,6]
+
+# for i in range(len(arr)):
+#     key = arr[i] 
+#     j = i - 1
+    
+    
+    
+#     while j >= 0 and arr[j] > key :
+#         arr[j + 1] =  arr[j]
+        
+#         j -= 1
+        
+        
+#     arr[j + 1] = key
+    
+    
+# print(arr)
+
+# arr = [4 , 2 ,5 ,1 ,6] 
+
+# for i in range(len(arr)):
+#     min_index = i
+    
+#     for j in range(i + 1 , len(arr)):
+#         if arr[j] < arr[min_index]:
+#              min_index = j 
+        
+#     arr[i] , arr[min_index] = arr[min_index] , arr[i]
+
+# print(arr)
+
+
+# def merge_sort(arr) :
+#     if len(arr) > 1:
+#         mid = len(arr) // 2
+#         left = arr[:mid]
+#         right = arr[mid:]
+        
+        
+#         merge_sort(left) 
+#         merge_sort(right) 
+        
+        
+#         i = j = k = 0
+        
+        
+#         while i < len(left) and j < len(right) :
+#             if left[i] < right[j]: 
+#                 arr[k] = left[i] 
+#                 i += 1
+#             else:
+#                 arr[k] = right[j]
+#                 j += 1
+#             k += 1
+            
+            
+            
+#         while i < len(left):
+#             arr[k] = left[i] 
+#             i += 1
+#             k += 1
+            
+#         while j < len(right):
+#             arr[k] = right[j] 
+#             j += 1
+#             k += 1
+            
+            
+# arr = [4 , 2 ,5 ,1 ,6] 
+# merge_sort(arr) 
+# print(arr)
+
+# class Node:
+#     def __init__(self , data):
+#         self.data = data
+#         self.next = None
+        
+        
+# class Linkedlist:
+#     def __init__(self):
+#       self.head = None
+    
+    
+    
+#     def insert_begain(self , data):
+#         new_node = Node(data)
+#         new_node.next = self.head
+#         self.head = new_node
+
+    
+#     def insert_at_pos(self , pos , data):
+#         if pos == 0 :
+#             self.insert_begain(data)
+#             return
+        
+#         temp = self.head 
+        
+#         for i in range(pos - 1):
+#             if temp is None:
+#                 print("postion is out of range")
+#                 return
+#             temp = temp.next
+#         new_node = Node(data)   
+#         new_node.next = temp.next 
+#         temp.next = new_node
+            
+#     def insert_end(self, data):
+#         new_node = Node(data)
+#         if not self.head:
+#             self.head = new_node
+#             return
+#         temp = self.head
+#         while temp.next:
+#             temp = temp.next
+#         temp.next = new_node
+    
+    
+#     def reverse(self) :
+#         prev = 0 
+#         current = self.head
+        
+        
+#         while current :
+#             next_node = current.next
+#             current.next = prev
+#             prev = current 
+            
+#             current = next_node
+            
+#         self.head = prev
+        
+#     def display(self):
+#         temp = self.head
+        
+#         while temp :
+#             print(temp.data , end=" -- > ") 
+#             temp = temp.next
+#         print("None")
+        
+# li = Linkedlist()
+
+# li.insert_begain(10)
+# li.insert_end(2)
+# li.insert_at_pos(0 , 15)
+# li.display()
+# li.reverse()
+# li.display()
+
+# def maxSum(nums):
+#     sum1 = 0
+#     num = set(nums) 
+        
+#     for i in num:
+#         if i < 0 :
+#             sum1 += i
+#     return sum1
+    
+# nums = [1 , 2 , 3 ,4 ,5 , 5] 
+# maxSum(nums)
+
+
+
+# l1 = [2,4,3]
+# l2 = [5,6,4]
+
+# carry = 0 
+# result = []
+
+# n = max(len(l1), len(l2))
+# for i in range(n):
+#     a =  l1[i] if i < len(l1) else 0 
+#     b = l2[i]  if i < len(l2) else 0
+    
+    
+#     total = a + b + carry
+#     result.append(total % 10) 
+#     carry = total // 10
+    
+# if carry :
+#     result.append(carry)
+    
+# print(result)
+
+
+
+# nums1 = [1,2,3,0,0,0]
+# nums2 = [2,5,6]
+
+# sum1 = nums1  + nums2
+# num2 = []
+# for i in sum1 :
+#     if i  > 0 :
+#         num2.append(i)
+
+# for i in range(len(num2)):
+#     for j in range(i + 1 , len(num2)):
+#         if num2[i] > num2[j] :
+#             num2[i] , num2[j] = num2[j] , num2[i]
+            
+            
+# nums = [ 5, 2, 8, 3, 1, 4]
+# n = len(nums)
+# for i in range(0 , n):
+#     if nums[i] % 2 == 0 :
+#         for j in range(i + 1 , len(nums)):
+#             if nums[j] % 2 != 0:
+            
+#                 nums[i] , nums[j] =  nums[j] , nums[i]
+#                 break
+        
+# print(nums)
+        
+
+# nums = [ 5, 2, 8, 3, 1, 4]
+
+# even = []
+# odd = []
+
+# for i in nums :
+#     if i % 2 == 0:
+#         even.append(i) 
+    
+#     else:
+#         odd.append(i)
+        
+        
+# sum1 = even + odd
+
+# print(sum1)
+
+
+# num = 28 
+# sum1 = 0
+# for i in range(1 ,num) :
+#     if num % i == 0:
+#         sum1 += i
+        
+# if num == sum1 :
+#     print("This is perfect number")
+    
+# else:
+#     print("This is not perfect number")
+
+
+# 
+
+# num = 1234
+# count = 0
+# while num > 0 :
+#     digit = num % 10 
+#     count += 1
+#     num = num // 10
+# print(count)
+
