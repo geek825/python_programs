@@ -1963,3 +1963,234 @@
 #     num = num // 10
 # print(count)
 
+# Maximum sum subarray of size K
+
+# def maximum_subarray(arr) :
+    
+#     window_sum = 0 
+#     max_sum  = 0 
+    
+#     for i in range(len(arr)):
+#         window_sum += arr[i]
+        
+#         if window_sum > max_sum : 
+#             max_sum = window_sum 
+            
+#         if window_sum < 0 :
+#             window_sum = 0
+            
+#     return max_sum
+
+# arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+# print(maximum_subarray(arr))
+    
+# import asyncio
+
+# async def main():
+#     print("Hello")
+#     await asyncio.sleep(1)
+#     print("World")
+
+# loop = asyncio.get_event_loop()
+# loop.run_until_complete(main())
+
+
+# def last_first_occ(key , arr) :
+#     key = 2
+#     n = len(arr) - 1
+#     first = -1 
+#     last = 1
+    
+    
+#     if key in arr :
+#         first = n 
+#         while first > 0 :
+#             if arr[first] == key
+#             break
+            
+#         last = 0 
+#         while last < n :
+#             if arr[last] == key :
+#                 break
+#             last += 1
+            
+#         return first , last
+
+
+
+
+       # date 30 / 07 / 2025
+
+# num = 6
+# original = num
+# sum1 = 0
+# for i in range(2 , num) :
+#     if num % i == 0 :
+#         while num > 0 :
+#             digit = num % 10 
+#             sum1 += digit 
+#             num = num // 10
+            
+# print(sum1)
+            
+    
+  
+  
+# def maximum_sum(arr , k) :
+#     n = len(arr) 
+     
+#     if n < k :
+#         return 
+    
+    
+#     window_sum = sum(arr[:k]) 
+#     max_sum = window_sum
+    
+#     for i in range(k ,n) :
+#         window_sum = window_sum - arr[i - k] + arr[i]
+#         max_sum= max(max_sum , window_sum)
+        
+        
+#     return max_sum
+        
+        
+        
+        
+        
+        
+# def pair(arr , target) :
+#     left = 0 
+#     right = len(arr) - 1
+    
+#     while left < right :
+#         curr_sum = arr[left] + arr[right] 
+        
+        
+#         if curr_sum == target  :
+#             return True 
+            
+            
+#         elif curr_sum  < target :
+#             left += 1
+            
+#         else :
+#             right -= 1
+            
+#     return False
+        
+
+# def fib(n) :
+#     a = 0
+#     b = 1
+    
+#     print(a ,  end=" ")
+    
+#     for i in range(2 , n):
+#         c =  a + b
+#         print(c , end=" ")
+        
+#         a = b 
+#         b = c
+        
+        
+# fib(10)
+
+
+
+# def fib(n):
+#     if n == 0:
+#         return 0 
+        
+#     elif n == 1 :
+#         return 1
+        
+        
+#     else :
+#         return fib(n - 1) + fib(n - 2) 
+        
+        
+# for i in range(10):
+#     print(fib(i) , end=" ")
+        
+
+# num = [2 , 3, 2]
+# count = 0 
+# candi = None
+
+
+# for i in num :
+#     if i == 0 :
+#         candi = num 
+        
+#     if num == candi:
+#         count += 1
+        
+#     else:
+#         count += 1
+        
+         
+#     if num.count(candi) > len(num)//2:
+#         return candi
+
+
+
+# num = [2, 5, 3, 4, 5, 6] 
+# freq = {}
+
+# for i in num :
+#     if i in freq :
+#         freq[i] += 1
+        
+#     else:
+#         freq[i] = 1
+        
+# found = False       
+# for i in num :
+#     if freq[i] > 1:
+#         print("first non - repeating charcter" , i)
+#         found = True
+#         break
+    
+# if not found :
+#     print("Not found")
+
+# def second_largest(num):
+#     first = second = float('-inf')
+    
+    
+    
+#     for i in num:
+#         if i > first :
+#             second = first
+#             first = i 
+            
+#         elif i > second and  i != first:
+#             second = i 
+                
+#     return second 
+    
+    
+# num = [9 , 4 , 6, 7, 4]
+# print(second_largest(num))
+
+# def second_largest(num) :
+#     first = second = float('inf')
+    
+#     for i in num :
+#         if i < first :
+#             second = first 
+#             first = i 
+#         elif i < second and i != first :
+#             second = i 
+#     return second if second != float('inf') else None
+
+
+
+
+
+
+
+    
+    
+    
